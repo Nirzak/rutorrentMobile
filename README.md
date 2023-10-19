@@ -4,7 +4,7 @@
 Place all the plugin files in a directory called mobile in the rutorrent/plugins directory.
 To clone directly from this git repository, run this command in the rutorrent/plugins directory:
 ```
-git clone https://github.com/xombiemp/rutorrentMobile.git mobile
+git clone https://github.com/Nirzak/rutorrentMobile.git mobile
 
 ```
 
